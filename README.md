@@ -9,7 +9,7 @@ questions
 7. sales vs orders
 8. Create a neat Dashboard board
 
-After creating data to understand to increse the sales
+After creating data to Key Points to increse the sales
 1. women are more likely to buy compared to men (~65%)
 2. maharastra ,Karnataka, Utter Pradesh are the top 3 states (~35%)
 3. Adult age group (30-40 years is max contributing (~50%)
